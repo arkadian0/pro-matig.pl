@@ -1,0 +1,453 @@
+@media (max-width: 599px)
+ {
+	 #divnamenu
+	 {
+		 display:none;
+	 }
+
+	 #menu{
+		 width:100%;
+		 height:80px;
+		 position:relative;
+		 background-color:#111111; 
+		 font-family: 'Raleway', sans-serif;
+	 }
+	 #home
+{
+	width: 70%;
+height:7%;
+left:8%;	
+margin:0 auto;
+font-family: 'Abel', sans-serif;
+border-width:0.3px;  
+border-bottom-style:solid;
+border-bottom-color: white;
+font-size:18px;
+top:10%;
+}
+#uslugi
+{
+	width: 70%;
+height:7%;
+margin:0 auto;
+left:8%;	
+border-width:0.3px;  
+border-bottom-style:solid;
+border-bottom-color: white;
+top:20%;
+font-size:18px;
+font-family: 'Abel', sans-serif;
+}
+#naszapraca
+{
+	width: 70%;
+	height:7%;
+margin:0 auto;
+left:8%;	
+border-width:0.3px;  
+border-bottom-style:solid;
+border-bottom-color: white;
+top:30%;
+font-size:18px;
+font-family: 'Abel', sans-serif;
+}
+#onas
+{
+	width: 70%;
+	height:7%;
+border-width:0.3px;   
+border-bottom-style:solid;
+border-bottom-color: white;
+top:40%;
+margin:0 auto;
+left:8%;	
+font-size:18px;
+font-family: 'Abel', sans-serif;
+}
+#mapa
+{
+		width: 70%;
+	height:7%;
+margin:0 auto;
+left:8%;	
+border-width:0.3px;  
+border-bottom-style:solid;
+border-bottom-color: white;
+top:50%;
+font-size:18px;
+font-family: 'Abel', sans-serif;
+}
+#kontakt
+{
+	height:7%;
+width: 70%;
+	left:8%;	
+	margin:0 auto;
+border-width:0.3px;  
+
+top:60%;
+font-size:18px;
+font-family: 'Abel', sans-serif;
+}
+	 div#rozwinietemenu
+	 {
+
+	 		width:50%;
+	 	height:100%;
+	 	position:absolute;
+	 	z-index: 1;
+	 	display:none;
+	 	opacity: 0.9;
+	 	background-color:#111111;
+	 	
+	 }
+	
+
+	 #obrazklucz
+	 {
+		 top:2%;
+	 }
+	 #tekstnaobrazie {
+		 font-size:40px;
+		 top:2%;
+	 }
+	 #uslugispawalnicze
+	 {
+		 top:2%;
+		 font-size:19px;
+	 }
+	 #obrazpromatig
+	 {
+		 height:500px;
+	 }
+	  input#przyciskmenu
+	  {
+		  display:block;
+		  position:relative;
+		  width:50px;
+		  height:100%;
+		  float:right;
+		  right:5%;
+		   
+	  }
+#przyciskmenu:active, #przyciskmenu:focus
+{
+-moz-outline: none;
+outline: none; /* CSS 3 */
+ie-dummy: expression(this.hideFocus=true); /* IE >= 5.5 */
+}
+	  #tablicauslug2
+{
+	display:table;
+position:relative;
+width:90%;
+top:10%;
+height:70%;
+margin:0 auto;
+
+}
+#tablicauslug
+{
+	display:none;
+}
+#uslugikontener
+{
+	height: 1200px;
+	background-image:none;
+	background-color:black;
+}
+#onaskontener
+{
+	
+	background-image:none;
+	background-color:black;
+}
+#tablicasilnik
+{
+	position:relative;
+	background:none;
+height:140px;
+
+}
+.opisuslugi
+{
+	
+	display:block;
+	font-size:15px;
+	
+}
+#tablicahamulce
+{
+	position:relative;
+	background:none;
+height:160px;
+
+}
+
+#tablicaklimatyzacja
+{
+		background:none;
+height:160px;
+
+}
+#tablicaelektronika
+{
+		background:none;
+height:160px;
+
+}
+#tablicaskrzynia
+{
+		background:none;
+height:160px;
+
+}
+#tablicazawieszenie
+{
+		background:none;
+height:160px;
+
+
+}
+#galleryWrapper {
+width:350px;
+padding:0px;
+margin-top:25%;
+
+}
+#galleryListWrapper {
+ 
+  margin-left:5%;
+}
+#galleryList li a img {
+
+	width:130px;
+	height:130px;
+	
+ }
+ 
+ #moja-mapa
+{
+position: :absolute;
+    width: 100%;
+	
+    height: 100%;
+}
+#tresc
+{
+	margin-top:-2%;
+	margin-right:10%;
+	font-size:19px;
+	
+}
+#usluginapis
+{
+top:3%;
+font-size: 42px;
+
+}
+#napispromatig
+{
+	position:relative;
+	display:block;
+	color:white;
+	margin-left:5%;
+	top:25%;
+	font-size:30px;
+	font-weight:bold;
+	font-family: 'Abel', sans-serif;
+}
+#bialakreska
+{
+	top:3%;
+}
+#kontenerspawanie
+{
+	
+	text-align:center;
+	position:absolute;
+	left:16%;
+	top:34%;
+	width:70%;
+	height:20%;
+}
+#napiskolka
+{
+	top:10%;
+	font-size:30px;
+}
+#spaw3
+{
+	height:140px;
+	width:200px;
+}
+#brama4
+{
+	
+	height:140px;
+	width:200px;
+}
+#konstrukcja3
+{
+	padding-top:8%;
+height:140px;
+	width:200px;
+}
+#kontenerbramy
+{
+	text-align:center;
+	position:absolute;
+	left:16%;
+	top:10%;
+	width:70%;
+	height:20%;
+}
+#kontenerkonstrukcje
+{
+	
+	text-align:center;
+	position:absolute;
+	left:16%;
+	top:63%;
+	width:70%;
+	height:40%;
+
+}
+#mamgnapis
+{
+	position:relative;
+	margin-top:-20%;
+	width:100%;
+	height:15%;
+	display:block;
+}
+#napisonas
+{
+	top:-10%;
+}
+#bialakreskaonas
+{
+	top:-8%;
+}
+#onasopis
+{
+	top:3%;
+	font-size:17px;
+	width:100%;
+	left:0%;
+}
+#onasmniejszykontener
+{
+	width:90%;
+	height:70%;
+	color:white;
+	position: relative;
+	margin:0 auto;
+	top:15%;
+	background:none;
+	opacity:1;
+}
+
+#contact
+{
+
+	height:0px;
+}
+#imie
+{
+margin:0 auto;
+	float:none;
+	width:80%;
+	top:48%;
+height:5%;
+	
+	
+}
+#email
+{
+	margin:0 auto;
+	height:5%;
+	float:none;
+	width:80%;
+	top:54%;
+
+}
+#subject
+{
+height:5%;
+margin:0 auto;
+	float:none;
+	width:80%;
+	top:60%;
+
+}
+#kontaktczarnakreska
+{
+	margin-top:10%;
+}
+#message
+{
+	
+	float:none;
+	margin:0 auto;
+	width:80%;
+	height:25%;
+	top:66%;
+
+}
+#przyciskwyslij
+{
+	float:none;
+	width:25%;
+	height:5%;
+	top:73%;
+	
+	
+}
+#znajdznas
+{
+	position: relative;
+	width:100%;
+	height:900px;
+	background-color:white;
+	margin:0 auto;
+}
+#amgmerckontakt
+{
+	width:350px; 
+	height:250px
+}
+#opiskontaktu
+{
+	font-size:17px;
+	text-align:center;
+	width:100%;
+	left:0%;
+}
+.slideshow-container { 
+  height:1460px; 
+}
+
+.mySlides {
+	height:1460px;	
+}
+@-webkit-keyframes .fade {
+    100% { left: 0; }
+}
+
+@keyframes .fade{
+    100% { left: 0; }
+}
+}
+@media (max-width: 400px)
+ {
+ #przyciskwyslij
+{
+	float:none;
+	width:25%;
+	height:5%;
+	top:77%;
+	
+	
+}
+}
